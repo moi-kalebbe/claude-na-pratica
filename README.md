@@ -9,6 +9,7 @@ Os materiais que eu mando para quem comenta nos meus vídeos do Instagram ([@moi
 | [PROMPT](prompt) | o botão Prompt Master, que reescreve o teu pedido antes de enviar |
 | [MARKETING](marketing) | o time de marketing grátis pro Claude e o passo a passo |
 | [MOD](mod) | os 3 prompts dos mods e mais 10 ideias de mods do Claude |
+| [FABLE](fable) | a skill que monta uma cena 3D (como a Avenida Paulista) com um pedido só |
 | [PEIXINHO](peixinho) | o método do elefante e do peixinho, do Google, e como usar |
 
 Tudo aqui é grátis. Toda semana eu testo uma IA nova e a entrega dela entra aqui.
