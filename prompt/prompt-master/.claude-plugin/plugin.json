@@ -1,0 +1,1 @@
+{ "name": "prompt-master", "version": "0.1.0", "description": "Botão acima da caixa de mensagem que lê o pedido cru, pergunta o que falta e reescreve em um pedido melhor.", "author": { "name": "Moisés Kalebbe" }, "types": "./types/index.d.ts" }

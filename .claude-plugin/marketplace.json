@@ -1,0 +1,7 @@
+{
+  "name": "claude-na-pratica",
+  "owner": { "name": "Moisés Kalebbe" },
+  "plugins": [
+    { "name": "prompt-master", "source": "./prompt/prompt-master", "description": "Botão acima da caixa de mensagem que lê o pedido cru, pergunta o que falta e reescreve em um pedido melhor." }
+  ]
+}
