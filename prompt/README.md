@@ -21,6 +21,12 @@ O código está na pasta [`prompt-master`](prompt-master) deste repositório.
 
 No app do Claude: clica no **+** ao lado da caixa de mensagem, depois em **Plugins**, **Add marketplace**, escreve `moi-kalebbe/claude-na-pratica`, e por fim **Add plugin** em `prompt-master`. Abre uma conversa nova para ele carregar.
 
+No Claude Code pelo terminal, é uma linha só:
+
+```
+/plugin install prompt-master --marketplace moi-kalebbe/claude-na-pratica
+```
+
 ## Como usar
 1. Escreve na caixa, por exemplo: `faz um post da minha cafeteria`
 2. Clica em **✦ Prompt Master**.
