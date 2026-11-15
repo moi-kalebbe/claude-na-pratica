@@ -11,5 +11,7 @@ Os materiais que eu mando para quem comenta nos meus vídeos do Instagram ([@moi
 | [MOD](mod) | os 3 prompts dos mods e mais 10 ideias de mods do Claude |
 | [FABLE](fable) | a skill que monta uma cena 3D (como a Avenida Paulista) com um pedido só |
 | [PEIXINHO](peixinho) | o método do elefante e do peixinho, do Google, e como usar |
+| [SOM](som) | os 3 plugins grátis que dão som de verdade ao Claude, o pedido que instala e o guia |
+| [COPIA](copia) | o rea-video, que desmonta qualquer vídeo cena por cena pro Claude copiar o formato, e o pedido que instala |
 
 Tudo aqui é grátis. Toda semana eu testo uma IA nova e a entrega dela entra aqui.
