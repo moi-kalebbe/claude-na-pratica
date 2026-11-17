@@ -40,5 +40,9 @@
   "entrega": "o link do repositório que copia qualquer vídeo e o passo a passo pra instalar no Claude",
   "link": "https://github.com/moi-kalebbe/claude-na-pratica/tree/main/copia",
   "youtube": "PmooJks63DI"
+ },
+ "TEXTO": {
+  "entrega": "o link do Humanizer e como instala no Claude",
+  "link": "https://github.com/moi-kalebbe/claude-na-pratica/tree/main/texto"
  }
 }
