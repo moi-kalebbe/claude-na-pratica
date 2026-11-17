@@ -1,0 +1,44 @@
+{
+ "FILME": {
+  "entrega": "os 3 pedidos de propaganda e o passo a passo pra fazer o teu",
+  "link": "https://github.com/moi-kalebbe/claude-na-pratica/tree/main/filme",
+  "youtube": "dqOywYbBVZk"
+ },
+ "ESTILO": {
+  "entrega": "o passo a passo dos 10 estilos, com os pedidos prontos",
+  "link": "https://github.com/moi-kalebbe/claude-na-pratica/tree/main/estilo"
+ },
+ "PROMPT": {
+  "entrega": "o botão Prompt Master pronto e o passo a passo",
+  "link": "https://github.com/moi-kalebbe/claude-na-pratica/tree/main/prompt"
+ },
+ "MARKETING": {
+  "entrega": "o time de marketing grátis pro Claude e o passo a passo completo",
+  "link": "https://github.com/moi-kalebbe/claude-na-pratica/tree/main/marketing",
+  "youtube": "As8psdnykiA"
+ },
+ "MOD": {
+  "entrega": "os 3 prompts dos mods e mais 10 ideias de mods do Claude",
+  "link": "https://github.com/moi-kalebbe/claude-na-pratica/tree/main/mod",
+  "youtube": "xdxMrr9_CZc"
+ },
+ "PEIXINHO": {
+  "entrega": "o link do método do elefante e do peixinho e como usar",
+  "link": "https://github.com/moi-kalebbe/claude-na-pratica/tree/main/peixinho",
+  "youtube": "qOwiFiRKlZI"
+ },
+ "FABLE": {
+  "entrega": "a skill que monta a cena 3D com um pedido só, e como instalar",
+  "link": "https://github.com/moi-kalebbe/claude-na-pratica/tree/main/fable"
+ },
+ "SOM": {
+  "entrega": "o pedido que instala os 3 plugins de som e o guia de como usar",
+  "link": "https://github.com/moi-kalebbe/claude-na-pratica/tree/main/som",
+  "youtube": "a-EAWuONikc"
+ },
+ "COPIA": {
+  "entrega": "o link do repositório que copia qualquer vídeo e o passo a passo pra instalar no Claude",
+  "link": "https://github.com/moi-kalebbe/claude-na-pratica/tree/main/copia",
+  "youtube": "PmooJks63DI"
+ }
+}
