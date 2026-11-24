@@ -13,5 +13,6 @@ Os materiais que eu mando para quem comenta nos meus vídeos do Instagram ([@moi
 | [PEIXINHO](peixinho) | o método do elefante e do peixinho, do Google, e como usar |
 | [SOM](som) | os 3 plugins grátis que dão som de verdade ao Claude, o pedido que instala e o guia |
 | [COPIA](copia) | o rea-video, que desmonta qualquer vídeo cena por cena pro Claude copiar o formato, e o pedido que instala |
+| [FUNCIONARIO](funcionario) | o kit das 10 peças do funcionário de IA (CLAUDE.md, skill, hook, tarefa agendada...), com os arquivos prontos |
 
 Tudo aqui é grátis. Toda semana eu testo uma IA nova e a entrega dela entra aqui.

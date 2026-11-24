@@ -69,5 +69,9 @@
     "entrega": "a skill que audita teu site como o Google e a IA, e o passo a passo pra instalar",
     "link": "https://github.com/moi-kalebbe/claude-na-pratica/tree/main/skill",
     "youtube": "9AQEjq-GCLA"
+  },
+  "FUNCIONARIO": {
+    "entrega": "o kit com as 10 peças do funcionário de IA, com os arquivos prontos pra copiar",
+    "link": "https://github.com/moi-kalebbe/claude-na-pratica/tree/main/funcionario"
   }
 }
